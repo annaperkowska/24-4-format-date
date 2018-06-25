@@ -1,5 +1,5 @@
 const formatDate = (timeInSeconds) => {
-	let s = `${timeInSeconds}s`;
+	let s = `${timeInSeconds}`;
 	let m = 0;
 	let h = 0;
 
